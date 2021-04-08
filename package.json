@@ -1,0 +1,25 @@
+{
+  "name": "sql-client-backend",
+  "version": "1.0.0",
+  "description": "ArcType Interview Task backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineethasok/sql-client-backend.git"
+  },
+  "author": "VineethAsokkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineethasok/sql-client-backend/issues"
+  },
+  "homepage": "https://github.com/vineethasok/sql-client-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg-promise": "^10.10.1"
+  }
+}
